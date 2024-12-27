@@ -1,0 +1,26 @@
+# Deny all by default
+*
+!*/
+
+# Allow list
+!.gitignore
+
+## Documentation
+!**/*.md
+
+## Rules
+!.windsurfrules
+!.cursorrules
+!.github/copilot-instructions.md
+
+## Linting
+!.markdownlint.json
+!.vale.ini
+
+## Legal
+!ATTRIBUTION
+!LICENSE
+
+# Explicit deny list
+.history
+.vale/styles

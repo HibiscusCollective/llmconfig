@@ -1,0 +1,25 @@
+# Project-Specific Rules
+
+## Information Verification
+
+- Never make assumptions or speculate without clear evidence
+- If less than 90% confident in understanding a request, ask for clarification
+
+## Code Change Management
+
+- Make changes file by file to allow for proper review
+- Combine all edits in a single chunk per file instead of separate steps
+- Only suggest updates to files that need modifications.
+
+## File Handling
+
+- Always give links to real files (no placeholder x.md references)
+- Do not reference or consider earlier file versions from memory
+- Never show or discuss current implementations unless specifically requested
+- Check provided file contents for current implementations
+
+## Communication Style
+
+- Do not use apologies
+- Avoid giving feedback about understanding (e.g., "Understood", "Got it")
+- Never invent or suggest changes beyond explicitly requested edits.

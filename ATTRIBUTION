@@ -1,0 +1,13 @@
+# Attributions
+
+## Default project rules
+
+The [default project rules](./config/default-project-rules.json) are derived from
+[optimize-dry-solid-principles-cursor-rules](https://github.com/PatrickJS/awesome-cursorrules/blob/d6e98f2fe37c702621a6cd62cb28596c87429a95/rules/optimize-dry-solid-principles-cursorrules-prompt-f/.cursorrules),
+[github-code-quality-cursorrules-prompt-file](https://github.com/PatrickJS/awesome-cursorrules/blob/d6e98f2fe37c702621a6cd62cb28596c87429a95/rules/github-code-quality-cursorrules-prompt-file/.cursorrules),
+[code-guidelines-cursorrules-prompt-file](https://github.com/PatrickJS/awesome-cursorrules/blob/d6e98f2fe37c702621a6cd62cb28596c87429a95/rules/code-guidelines-cursorrules-prompt-file/.cursorrules),
+and [github-cursorrules-prompt-file-instructions](https://github.com/PatrickJS/awesome-cursorrules/blob/d6e98f2fe37c702621a6cd62cb28596c87429a95/rules/github-cursorrules-prompt-file-instructions/.cursorrules)
+with modifications of my own for consistent formatting and adding some new guidelines.
+These are available at [awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules/tree/d6e98f2fe37c702621a6cd62cb28596c87429a95) and are used under the
+[CC0-1.0 license](https://creativecommons.org/publicdomain/zero/1.0/).
+All credit for the original rules goes to the author(s) with thanks for their contribution to the community ❤️
