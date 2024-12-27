@@ -1,16 +1,16 @@
 # [Decision-id] [title]
 
-**Status:** [status]  <!-- One of: Proposed | Accepted | Rejected | Deprecated | Superseded -->
-**Driver:** [driver]  <!-- GitHub username of decision owner -->
-**Date:** [date]      <!-- ISO format: DD-MM-YYYY -->
+| **Status:** [status]  <!-- One of: Proposed | Accepted | Rejected | Deprecated | Superseded -->
+| **Driver:** [driver]  <!-- GitHub username of decision owner -->
+|**Date:** [date]      <!-- ISO format: DD-MM-YYYY --> |
 
 ## Executive summary
 
 In the context of [system or feature],
 facing [problem or challenge],
 we decided for [chosen-option]
-and against [rejected-options]
-to achieve [goal or benefit],
+and against [rejected-options].
+This will achieve [goal or benefit],
 accepting [tradeoff].
 
 ## Context and problem statement

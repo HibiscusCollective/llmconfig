@@ -16,6 +16,7 @@
 ## Linting
 !.markdownlint.json
 !.vale.ini
+!cspell.config.yaml
 
 ## Legal
 !ATTRIBUTION
