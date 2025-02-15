@@ -1,5 +1,9 @@
 # Project-specific rules
 
+## !!Priority rules!!
+
+- Refer to the @docs/contributors folder in the project if available and ensure you follow the vision, plans, policies and decisions.
+
 ## Information verification
 
 - Never make assumptions or speculate without clear evidence.
@@ -10,6 +14,7 @@
 - Make changes file by file to allow for proper review.
 - Combine all edits into a single chunk per file instead of separate steps.
 - Only suggest updates to files that need modifications.
+- Do not chain multiple changes one after the other, avoid looping back on your output without user feedback.
 
 ## File handling
 
@@ -17,6 +22,15 @@
 - Never reference or consider earlier file versions from memory
 - Do not show or discuss current implementations unless specifically requested
 - Check provided file contents for current implementations
+
+## Coding practices
+
+- Always use test driven development for code changes. This means:
+  1. If the test case has not been created by the user, propose a test case and stop for feedback
+  2. If a test case has been created and is failing, propose the minimal code change that would make that test pass.
+  3. If a test case has been created and is passing, look for oportunities for refactoring the test and/or production code.
+- Commits should be atomic (change one thing at a time) and as small as possible. Warn the user before making changes if there are already changes that haven't been committed yet.
+- Run the configured project linters after each change.
 
 ## Communication style
 
